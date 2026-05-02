@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+dist/
+build/
+.DS_Store
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+velora-frontend/node_modules/
+velora-frontend/dist/
+velora-backend/node_modules/
