@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/velora-backend/server.js"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/velora-frontend/dist/$1"
+    }
+  ]
+}
