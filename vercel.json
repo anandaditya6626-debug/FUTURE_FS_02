@@ -6,7 +6,7 @@
     },
     {
       "source": "/(.*)",
-      "destination": "/velora-frontend/dist/$1"
+      "destination": "/index.html"
     }
   ]
 }
