@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "cd velora-frontend && npm install && npm run build",
+    "build": "cd velora-frontend && npm run build",
     "install": "cd velora-frontend && npm install && cd ../velora-backend && npm install"
   }
 }
